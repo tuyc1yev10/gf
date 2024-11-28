@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #cd5d5d;
+    
+}
+h1{
+    text-align: center;
+font-size: 50px;
+margin: top 20px;
+color: wheat;
+font-weight: 400;
+}
+span{
+    color: yellow;
+    font-weight: 400;
+}
+
+
+
+.ota{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 46px auto;
+
+
+}
+.card{
+width: 300px;
+background-color:black;
+text-align: center;
+color: wheat;
+padding-bottom: 28px;
+}
+.card img{
+width: 100%;
+}
+.card h2{
+    margin: 20px;
+}
+.ota2{
+display: flex;
+gap: 50px;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
